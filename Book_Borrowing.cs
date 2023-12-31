@@ -8,7 +8,7 @@ using Microsoft.Win32.SafeHandles;
 using System.Drawing;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ToolBar;
 using System.Diagnostics;
-/* jomer */
+/* jomers */
 namespace Library_Management_System
 {
     public partial class Book_Borrowing : Form
