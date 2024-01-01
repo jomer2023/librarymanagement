@@ -1,0 +1,15 @@
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.AssemblyReference.cache
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Book_Borrowing.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Book_List.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Book_Penalty.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Book_Reservation.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Book_Returning.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Borrower_List.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.cache
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\GINES\source\repos\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
