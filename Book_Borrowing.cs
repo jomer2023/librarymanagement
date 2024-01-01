@@ -8,7 +8,7 @@ using Microsoft.Win32.SafeHandles;
 using System.Drawing;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ToolBar;
 using System.Diagnostics;
-
+/* Jacq */
 namespace Library_Management_System
 {
     public partial class Book_Borrowing : Form
@@ -256,6 +256,7 @@ namespace Library_Management_System
             Book_Returning bookreturning = new Book_Returning();
             bookreturning.Show();
             this.Hide();
+            
             
         }
 
